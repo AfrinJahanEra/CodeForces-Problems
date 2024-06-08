@@ -21,7 +21,6 @@ int main() {
             continue;
         }
         else{
-            break;
         }
     }
     cout<<endl;
